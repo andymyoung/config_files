@@ -20,5 +20,6 @@
 	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-  "auto_complete_complete_on_tab": true
+  "auto_complete_complete_on_tab": true,
+  "remember_open_files": true
 }

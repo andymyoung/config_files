@@ -62,7 +62,7 @@ source $ZSH/oh-my-zsh.sh
 
 # User configuration
 
-export PATH="/Users/ayoung/.rvm/gems/ruby-2.1.0/bin:/Users/ayoung/.rvm/gems/ruby-2.1.0@global/bin:/Users/ayoung/.rvm/rubies/ruby-2.1.0/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/ayoung/.rvm/bin"
+export PATH="/Users/ayoung/.rvm/gems/ruby-2.1.0/bin:/Users/ayoung/.rvm/gems/ruby-2.1.0@global/bin:/Users/ayoung/.rvm/rubies/ruby-2.1.0/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/ayoung/.rvm/bin":$PATH
 # export MANPATH="/usr/local/man:$MANPATH"
 
 # # Preferred editor for local and remote sessions
