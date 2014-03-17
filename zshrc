@@ -48,7 +48,7 @@ alias bbctags='/Applications/BBEdit.app/Contents/Helpers/ctags'
 # much faster.
 # DISABLE_UNTRACKED_FILES_DIRTY="true"
 
-# Uncomment following line if you want to  shown in the command execution time stamp 
+# Uncomment following line if you want to  shown in the command execution time stamp
 # in the history command output. The optional three formats: "mm/dd/yyyy"|"dd.mm.yyyy"|
 # yyyy-mm-dd
 # HIST_STAMPS="mm/dd/yyyy"
@@ -62,7 +62,7 @@ source $ZSH/oh-my-zsh.sh
 
 # User configuration
 
-export PATH="/Users/ayoung/.rvm/gems/ruby-2.1.0/bin:/Users/ayoung/.rvm/gems/ruby-2.1.0@global/bin:/Users/ayoung/.rvm/rubies/ruby-2.1.0/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/ayoung/.rvm/bin":$PATH
+export PATH="/Users/ayoung/.rvm/gems/ruby-2.1.0/bin:/Users/ayoung/.rvm/gems/ruby-2.1.0@global/bin:/Users/ayoung/.rvm/rubies/ruby-2.1.0/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/ayoung/.rvm/bin":/Users/ayoung/bin:$PATH
 # export MANPATH="/usr/local/man:$MANPATH"
 
 # # Preferred editor for local and remote sessions
