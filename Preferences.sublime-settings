@@ -11,7 +11,9 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Swift",
+		"Vintage",
+		"Ruby Slim"
 	],
 	"indent_to_bracket": true,
 	"line_padding_bottom": 1,
@@ -19,7 +21,7 @@
 	"remember_open_files": true,
 	"shift_tab_unindent": true,
 	"tab_size": 2,
-	"theme": "Soda Dark.sublime-theme",
+	"theme": "Flatland Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }

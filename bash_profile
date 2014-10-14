@@ -25,6 +25,7 @@ alias pyg='pygmentize'
 alias bbtags='bbedit --maketags'
 alias bbctags='/Applications/BBEdit.app/Contents/Helpers/ctags'
 
+
 # Set architecture flags
 export ARCHFLAGS="-arch x86_64"
 
