@@ -65,9 +65,9 @@ source $ZSH/oh-my-zsh.sh
 export PATH="/Users/ayoung/.rvm/gems/ruby-2.1.0/bin:/Users/ayoung/.rvm/gems/ruby-2.1.0@global/bin:/Users/ayoung/.rvm/rubies/ruby-2.1.0/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/ayoung/.rvm/bin":/Users/ayoung/bin:$PATH
 # export MANPATH="/usr/local/man:$MANPATH"
 
-export JAVA_HOME=$(/usr/libexec/java_home)
-export MAVEN_HOME="/Users/ayoung/Applications/apache-maven-3.2.3"
-export PATH=$PATH:$MAVEN_HOME/bin
+#export JAVA_HOME=$(/usr/libexec/java_home)
+#export MAVEN_HOME="/Users/ayoung/Applications/apache-maven-3.2.3"
+#export PATH=$PATH:$MAVEN_HOME/bin
 
 
 # # Preferred editor for local and remote sessions
